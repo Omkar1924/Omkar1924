@@ -85,19 +85,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Omkar1924&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    alt="Omkar's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar1924&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Omkar's Top Languages"
-  />
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Omkar1924&show_icons=true&theme=default&count_private=true" alt="Omkar's GitHub Stats" height="165"/> <img src="https://streak-stats.demolab.com/?user=Omkar1924&theme=default" alt="Omkar's GitHub Streak" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar1924&layout=compact&theme=default" alt="Top Languages" height="165"/> </p>
 
 ---
 
