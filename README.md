@@ -1,162 +1,108 @@
-Hi 👋, I'm Omkar Suryawanshi
+<h1 align="center">Hi 👋, I'm Omkar Suryawanshi</h1>
+<h3 align="center">Java Full Stack Developer | Building REST APIs & Full-Stack Web Apps</h3>
 
-🚀 Java Full Stack Developer | Java • Spring Boot • React • REST APIs
-
-I'm a Java Full Stack Developer from Pune, India, passionate about building scalable backend systems, responsive web applications, and practical software solutions.
-
-I enjoy working across the full development lifecycle — from database design and REST API development to frontend integration and deployment.
-
----
-
-👨‍💻 About Me
-
-- 🔭 Currently building a Full-Stack E-Commerce Application
-- 🌱 Deepening my skills in Java, Spring Boot, React & Microservices
-- 💻 Experienced in developing REST APIs and full-stack web applications
-- 🤖 Worked on an OCR-based data extraction system processing 45,000+ records
-- 🗄️ Interested in backend architecture, databases and scalable applications
-- 🧪 Experienced with API testing using Postman
-- ☁️ Familiar with AWS & Docker
-- 📍 Based in Pune, Maharashtra, India
-- 🎯 Looking for opportunities as a Java / Java Full Stack Developer
+<p align="center">
+  <a href="mailto:omkar190205@gmail.com"><img src="https://img.shields.io/badge/Email-omkar190205%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=flat&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
-🛠️ Tech Stack
+### 🚀 About Me
 
-💻 Languages
-
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-⚙️ Backend
-
-"Spring Boot" (https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-"Hibernate" (https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-"Django" (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-🎨 Frontend
-
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"TailwindCSS" (https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-🗄️ Databases
-
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-🔧 Tools & Technologies
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-"Maven" (https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-"AWS" (https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+- 🎓 Master of Computer Science (2024–2026), Modern College, Pune (Savitribai Phule Pune University)
+- 💻 Java Full Stack Developer with hands-on experience in **Java, Spring Boot, React, and Python**
+- 🔬 Built a production-grade **OCR-based data extraction pipeline** processing 45,000+ records
+- 🌐 Delivered responsive UI components for live business websites
+- 🧪 Adept at end-to-end development — database design, backend architecture, and frontend integration
+- 📬 Reach me at **omkar190205@gmail.com** | **+91 9404316393**
 
 ---
 
-🚀 Featured Projects
+### 🛠️ Tech Stack
 
-🛒 Full-Stack E-Commerce Application
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Java • Spring Boot • Hibernate • React • PostgreSQL • Maven
+**Backend**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-A full-stack e-commerce application focused on backend architecture and order management.
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Built entities, repositories, services and REST controllers
-- Implemented CRUD APIs
-- Tested APIs using Postman
-- Working on payment integration
-- Developing returns/refund functionality
-- React frontend integration in progress
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-🤖 OCR-Based MCQ Extraction System
-
-Python • Django • Tesseract OCR • React • TailwindCSS • MongoDB
-
-Worked on an OCR-based system for extracting MCQs from scanned question papers.
-
-- Processed 45,000+ NEET Biology questions
-- Converted scanned documents into structured JSON
-- Stored extracted data in MongoDB
-- Built React UI for uploading, reviewing and editing questions
-- Integrated frontend and backend workflows
-
----
-
-🥤 Shetkari Juice & Snacks Center
-
-React • Vite • TailwindCSS • PostgreSQL
-
-A responsive business website designed to showcase menu items and services.
-
-- Responsive and mobile-friendly UI
-- Dynamic React components
-- Clean user experience
-- Improved digital presence for the local business
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-💼 Experience
+### 💼 Experience
 
-AI Research & Development Intern — Marva AI LLP
-Jan 2025 – Jul 2025 | Pune
+**AI Research & Development Intern — Marva AI LLP** *(Jan 2025 – Jul 2025)*
+- Built Django backend services for OCR-based MCQ extraction on a dataset of 45,000+ NEET Biology questions
+- Implemented Tesseract OCR to convert scanned papers into structured JSON stored in MongoDB
+- Built a real-time React + TailwindCSS frontend for uploading, reviewing, and editing extracted questions
 
-Worked on OCR-based MCQ extraction using Django, Tesseract OCR, React, TailwindCSS and MongoDB.
-
-Software Development Intern — QHills Technology Pvt. Ltd.
-Nov 2023 – Jun 2024 | Pune
-
-Developed reusable React components and a booking module for a live business website while working in a collaborative development team.
-
----
-
-🎓 Education
-
-Master of Computer Science (MCS)
-Modern College, Pune — Savitribai Phule Pune University
-2024 – 2026 | Part II: 81.27%
-
-Bachelor of Science in Computer Science
-Yashwantrao Chavan Institute of Science, Satara
-2021 – 2024 | CGPA: 9.03 / 10
+**Software Development Intern — QHills Technology Pvt. Ltd.** *(Nov 2023 – Jun 2024)*
+- Built 5 reusable React.js UI components for the Vedainary business website
+- Developed a booking form module for Pooja and Havan services
+- Collaborated in a 4-person team under sprint-based task assignments
 
 ---
 
-📜 Certifications
+### 🌟 Featured Projects
 
-- 🏆 Java Training Certificate — EduPyramids, SINE, IIT Bombay | 87.50%
-- ☁️ AWS Academy Graduate – Cloud Foundations
-
----
-
-📊 GitHub Stats
-
-"Omkar's GitHub stats" (https://github-readme-stats.vercel.app/api?username=Omkar1924&show_icons=true&theme=tokyonight)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar1924&layout=compact&theme=tokyonight)
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Full-Stack E-Commerce App](https://github.com/Omkar1924)** *(Ongoing)* | Backend architecture with entities, repositories, services & REST controllers; Postman-tested CRUD workflows | Java, Spring Boot, Hibernate, React, PostgreSQL, Maven |
+| **[shetkariWeb](https://github.com/Omkar1924/shetkariWeb)** | Responsive business website for a local food brand with dynamic UI components | React (Vite), TailwindCSS, PostgreSQL |
+| **[Virtual-cafe](https://github.com/Omkar1924/Virtual-cafe)** | Web application project | JavaScript |
+| **[Store_rating](https://github.com/Omkar1924/Store_rating)** | Web application project | JavaScript |
+| **[js-project](https://github.com/Omkar1924/js-project)** | Practice repo exploring modern JavaScript features | JavaScript |
 
 ---
 
-🤝 Let's Connect
-
-📧 Email: omkar190205@gmail.com
-📍 Pune, Maharashtra, India
-
-💼 GitHub: "@Omkar1924" (https://github.com/Omkar1924)
+### 📜 Certifications
+- **AWS Academy Graduate – Cloud Foundations**, AWS Academy (Nov 2025)
+- **Java Training Certificate**, EduPyramids, SINE, IIT Bombay (2026 — Scored 87.50%)
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 📊 GitHub Stats
 
-I'm always interested in learning, building and collaborating on interesting software projects.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omkar1924&show_icons=true&theme=default&count_private=true" alt="Omkar's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar1924&theme=default" alt="Omkar's GitHub Streak" height="165"/>
+</p>
 
-"Code. Learn. Build. Repeat. 🚀"
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar1924&layout=compact&theme=default" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:omkar190205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Omkar1924"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>⭐️ Open to Java Full Stack Developer opportunities — let's connect!</i></p>
