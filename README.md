@@ -89,7 +89,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omkar1924&show_icons=true&theme=default&count_private=true" alt="Omkar's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar1924&theme=default" alt="Omkar's GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Omkar1924&theme=default" alt="Omkar's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
